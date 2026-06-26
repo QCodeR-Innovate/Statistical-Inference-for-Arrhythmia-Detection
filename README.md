@@ -194,5 +194,4 @@ Indian Institute of Technology Kharagpur.
 
 **Pushkar Chaturvedy**
 
-Department of Electrical Engineering
 Indian Institute of Technology Kharagpur
